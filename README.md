@@ -10,6 +10,13 @@
 <p>In the last article: <a href="https://cryptodeeptech.ru/blockchain-attack-vectors/" target="_blank" rel="noreferrer noopener">“Blockchain Attack Vectors &amp; Vulnerabilities to Smart Contracts”</a> we reviewed all known attacks on the blockchain, in this article we will talk about crypto threats again and we will talk about identifying <a href="https://cryptodeeptech.ru/cold-and-hot-wallets" target="_blank" rel="noreferrer noopener">vulnerabilities for Cold wallets, as well as for Hot wallets</a>. Blockchain is the underlying tech layer made up of a decentralized ledger, and a very secure data structure as there are a lot of distributed nodes that participate in the consensus algorithm. In order to hack the blockchain, hackers should exploit vulnerabilities in a lot of decentralized nodes.</p>
 
 
+----
+
+* Tutorial: https://youtu.be/NrQ3oNxlrlU
+* Tutorial: https://cryptodeeptech.ru/cold-and-hot-wallets
+
+----
+
 
 <p>The basic security assumption of blockchain is that it is impossible to hack so many nodes to change the state of the blockchain.</p>
 
